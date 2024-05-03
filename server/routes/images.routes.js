@@ -2,7 +2,9 @@ import { Router } from "express";
 
 const router = Router()
 
-router.post('/api/images/upload',async(req,res)=>{})
+router.post('/api/images/upload',async(req,res)=>{
+    
+})
 
 router.get('/api/images', async(req,res)=>{})
 
